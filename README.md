@@ -136,13 +136,6 @@ The application uses Spring Boot DevTools for development, which provides featur
 mvn spring-boot:run
 ```
 
-## Testing
-To run the tests:
-
-```bash
-mvn test
-```
-
 ## Building for Production
 To build the application for production:
 
