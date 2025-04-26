@@ -1,0 +1,9 @@
+home page contr, service DONE
+jobs two pages DONE
+projects info page DONE
+projects page DONE
+Service page DONE
+service more info DONE
+about us page DONE
+request logic
+send resume logic
